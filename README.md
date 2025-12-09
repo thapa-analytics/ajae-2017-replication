@@ -9,17 +9,15 @@ Shively, G., & Thapa, G. (2017). *Markets, transportation infrastructure, and fo
 - `/data` – Replication datasets (as permitted)
 - `/code/stata` – Main econometric analysis scripts
 - `/docs/paper` – Published manuscript (PDF)
-- `/figures` – Output figures
-- `/output` – Tables and interim results
+
 
 
 ## Stata Scripts (Execution Order)
 1. `Main_Results_Tables.do`
 2. `Main_Results_Figures.do`
-3. `Robustness.do`
-4. `Bootstrapping_IV.do`
-5. `Appendix_Tables.do`
-6. `Appendix_Figures.do`
+3. `Bootstrapping_IV.do`
+4. `Appendix_Tables.do`
+5. `Appendix_Figures.do`
 
 ## Reproducibility
 To replicate all results, run:

@@ -6,9 +6,9 @@ Replication materials for the article:
 Shively, G., & Thapa, G. (2017). *Markets, transportation infrastructure, and food prices in Nepal*. **American Journal of Agricultural Economics, 99(3), 660-682**.
 
 ## Repository Structure
-- `/data` – Replication datasets (as permitted)
-- `/code/stata` – Main econometric analysis scripts
-- `/docs/paper` – Published manuscript (PDF)
+- `/data` – Replication datasets
+- `/code/stata` – Stata do-files for all analyses and figure/table generation
+- `/docs/paper` – Published manuscript (PDF) and Appendix 
 
 
 
@@ -25,5 +25,4 @@ To replicate all results, run:
 ```stata
 do run_all.do
 
-## Notes
-Some source data may be restricted.
+

@@ -1,0 +1,1 @@
+Data for the AJAE 2017 replication
